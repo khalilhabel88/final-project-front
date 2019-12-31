@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://previews.123rf.com/images/vska/vska1606/vska160600071/58664047-abstract-digital-web-site-header-banner-technology-background.jpg);
+  background-size: cover;
+}
+.card-container {
+  width: 250px;
+  padding: 20px 18px;
+  border-radius: 10px;
+  margin: 5px auto;
+  display: flex;
+  justify-content: space-around;
+  background-color:whitesmoke;
+
+}
+.card-img-top {
+  height: 200px !important;
+  border-radius: 8px;
+}
+.image {
+  height: 200px !important;
+  width: 200px;
+  background-size: cover;
+
+  border-radius: 8px;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+.discover {
+  margin-left: 30px;
+}
+.editbtn {
+  width: 77.42px;
+}
+.film-info {
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: fantasy;
+  color: #2f4353;
+}
+.str {
+  color:red;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+}
+.input-container {
+  text-align: center;
+  padding: 40px;
+}
+.search {
+  border-radius: 5px;
+  width: 550px;
+  height: 50px;
+
+
+  
+}
+.filterstar {
+  font-size: 60px;
+}
+.first {
+  display: flex;
+  justify-content: space-around;
+}
+
+.editbtnadd {
+  width: 153px;
+  margin-top: 44px;
+}
+.trailer {
+  width: 70%;
+  height: 450px;
+  border-radius: 8px;
+}
+.trail {
+  text-align: center;
+}
