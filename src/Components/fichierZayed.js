@@ -1,1 +1,0 @@
-ktebt 7ajat
